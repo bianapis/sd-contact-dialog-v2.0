@@ -1,0 +1,15 @@
+{
+  "cRCustomerContactSessionProcedureInstanceRecord" : {
+    "contactDialogueRecord" : {
+      "contactDialogueLog" : "contactDialogueLog",
+      "contactDialogueResult" : "contactDialogueResult"
+    }
+  },
+  "queryInstanceRecord" : {
+    "queryTaskResult" : "queryTaskResult",
+    "queryType" : "queryType"
+  },
+  "queryUpdateActionTaskRecord" : {},
+  "updateResponseRecord" : {},
+  "queryUpdateActionTaskReference" : "QUATR758667"
+}

@@ -1,0 +1,15 @@
+{
+  "executeRecordReference" : "ERR761560",
+  "cRCustomerContactSessionProcedureInstanceRecord" : {
+    "sessionStartEndTime" : "09-22-2018",
+    "contactDialogueRecord" : {
+      "contactDialogueScript" : "contactDialogueScript",
+      "contactDialogueType" : "contactDialogueType",
+      "contactDialogueLog" : "contactDialogueLog",
+      "contactDialogueResult" : "contactDialogueResult"
+    }
+  },
+  "executeResponseRecord" : {},
+  "customerContactSessionProcedureExecuteActionTaskReference" : "CCSPEATR797974",
+  "customerContactSessionProcedureExecuteActionTaskRecord" : {}
+}

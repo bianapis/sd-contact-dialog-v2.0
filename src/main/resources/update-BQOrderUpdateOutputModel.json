@@ -1,0 +1,18 @@
+{
+  "orderUpdateActionTaskReference" : "OUATR798213",
+  "cRCustomerContactSessionProcedureInstanceRecord" : {
+    "contactDialogueRecord" : {
+      "contactDialogueLog" : "contactDialogueLog",
+      "contactDialogueResult" : "contactDialogueResult"
+    }
+  },
+  "orderUpdateActionTaskRecord" : {},
+  "updateResponseRecord" : {},
+  "orderInstanceRecord" : {
+    "orderType" : "orderType",
+    "orderTaskRecord" : {
+      "orderTaskWorkProducts" : "orderTaskWorkProducts",
+      "orderTaskResult" : "orderTaskResult"
+    }
+  }
+}

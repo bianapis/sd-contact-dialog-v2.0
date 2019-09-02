@@ -1,0 +1,16 @@
+{
+  "cRCustomerContactSessionProcedureInstanceRecord" : {
+    "sessionStartEndTime" : "09-22-2018",
+    "contactDialogueRecord" : {
+      "contactDialogueScript" : "contactDialogueScript",
+      "contactDialogueType" : "contactDialogueType",
+      "contactDialogueLog" : "contactDialogueLog",
+      "contactDialogueLogReference" : "728716",
+      "contactDialogueResult" : "contactDialogueResult"
+    }
+  },
+  "customerContactSessionProcedureInitiateActionReference" : "CCSPIAR773543",
+  "customerContactSessionProcedureInstanceReference" : "CCSPIR732132",
+  "customerContactSessionProcedureInitiateActionRecord" : {},
+  "customerContactSessionProcedureInstanceStatus" : "customerContactSessionProcedureInstanceStatus"
+}

@@ -1,0 +1,29 @@
+{
+  "authenticationInstanceAnalysis" : {
+    "authenticationInstanceAnalysisReportType" : "authenticationInstanceAnalysisReportType",
+    "authenticationInstanceAnalysisReport" : {},
+    "authenticationInstanceAnalysisParameters" : "authenticationInstanceAnalysisParameters",
+    "authenticationInstanceAnalysisRecord" : {}
+  },
+  "cRCustomerContactSessionProcedureInstanceRecord" : {
+    "customerReference" : "725399",
+    "contactDialogueRecord" : {
+      "contactDialogueLog" : "contactDialogueLog",
+      "contactDialogueResult" : "contactDialogueResult"
+    },
+    "customerContactOperatingSessionInstanceRecord" : {}
+  },
+  "authenticationRetrieveActionTaskReference" : "ARATR718028",
+  "authenticationInstanceRecord" : {
+    "authenticationTaskResult" : "authenticationTaskResult",
+    "requiredAuthenticationLevel" : "requiredAuthenticationLevel"
+  },
+  "authenticationRetrieveActionTaskRecord" : {},
+  "authenticationRetrieveActionResponse" : "authenticationRetrieveActionResponse",
+  "authenticationInstanceReport" : {
+    "authenticationInstanceReportParameters" : "authenticationInstanceReportParameters",
+    "authenticationInstanceReportType" : "authenticationInstanceReportType",
+    "authenticationInstanceReportRecord" : {},
+    "authenticationInstanceReport" : {}
+  }
+}

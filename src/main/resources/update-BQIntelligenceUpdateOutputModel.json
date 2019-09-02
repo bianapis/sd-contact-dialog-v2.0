@@ -1,0 +1,11 @@
+{
+  "intelligenceUpdateActionTaskRecord" : {},
+  "cRCustomerContactSessionProcedureInstanceRecord" : {
+    "contactDialogueRecord" : {
+      "contactDialogueLog" : "contactDialogueLog",
+      "contactDialogueResult" : "contactDialogueResult"
+    }
+  },
+  "intelligenceUpdateActionTaskReference" : "IUATR704289",
+  "updateResponseRecord" : {}
+}

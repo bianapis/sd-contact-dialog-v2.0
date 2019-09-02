@@ -1,0 +1,37 @@
+{
+  "salesInstanceAnalysis" : {
+    "salesInstanceAnalysisRecord" : {},
+    "salesInstanceAnalysisParameters" : "salesInstanceAnalysisParameters",
+    "salesInstanceAnalysisReportType" : "salesInstanceAnalysisReportType",
+    "salesInstanceAnalysisReport" : {}
+  },
+  "salesInstanceReport" : {
+    "salesInstanceReportParameters" : "salesInstanceReportParameters",
+    "salesInstanceReport" : {},
+    "salesInstanceReportType" : "salesInstanceReportType",
+    "salesInstanceReportRecord" : {}
+  },
+  "salesInstanceRecord" : {
+    "salesTaskResult" : "salesTaskResult",
+    "productServiceProperties" : "productServiceProperties",
+    "productServiceType" : "productServiceType"
+  },
+  "salesRetrieveActionResponse" : "salesRetrieveActionResponse",
+  "cRCustomerContactSessionProcedureInstanceRecord" : {
+    "sessionMechanism" : "sessionMechanism",
+    "sessionStartEndTime" : "09-22-2018",
+    "servicingPositionReference" : "791792",
+    "employeeReference" : "740881",
+    "customerReference" : "733296",
+    "contactDialogueRecord" : {
+      "contactDialogueScript" : "contactDialogueScript",
+      "contactDialogueType" : "contactDialogueType",
+      "contactDialogueLog" : "contactDialogueLog",
+      "contactDialogueLogReference" : "769228",
+      "contactDialogueResult" : "contactDialogueResult"
+    },
+    "customerContactOperatingSessionInstanceRecord" : {}
+  },
+  "salesRetrieveActionTaskRecord" : {},
+  "salesRetrieveActionTaskReference" : "SRATR702328"
+}

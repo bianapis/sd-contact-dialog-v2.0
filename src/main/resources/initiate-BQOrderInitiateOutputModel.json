@@ -1,0 +1,21 @@
+{
+  "orderInstanceStatus" : "orderInstanceStatus",
+  "cRCustomerContactSessionProcedureInstanceRecord" : {
+    "sessionStartEndTime" : "09-22-2018",
+    "contactDialogueRecord" : {
+      "contactDialogueScript" : "contactDialogueScript",
+      "contactDialogueType" : "contactDialogueType",
+      "contactDialogueLog" : "contactDialogueLog",
+      "contactDialogueResult" : "contactDialogueResult"
+    }
+  },
+  "orderInstanceReference" : "OIR742130",
+  "orderInitiateActionReference" : "OIAR739428",
+  "orderInstanceRecord" : {
+    "orderTaskRecord" : {
+      "orderTaskWorkProducts" : "orderTaskWorkProducts",
+      "orderTaskResult" : "orderTaskResult"
+    }
+  },
+  "orderInitiateActionRecord" : {}
+}

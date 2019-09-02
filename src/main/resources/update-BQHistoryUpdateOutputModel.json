@@ -1,0 +1,14 @@
+{
+  "cRCustomerContactSessionProcedureInstanceRecord" : {
+    "contactDialogueRecord" : {
+      "contactDialogueLog" : "contactDialogueLog",
+      "contactDialogueResult" : "contactDialogueResult"
+    }
+  },
+  "updateResponseRecord" : {},
+  "historyUpdateActionTaskRecord" : {},
+  "historyInstanceRecord" : {
+    "historyTaskResult" : "historyTaskResult"
+  },
+  "historyUpdateActionTaskReference" : "HUATR772716"
+}

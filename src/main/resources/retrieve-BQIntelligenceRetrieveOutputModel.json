@@ -1,0 +1,32 @@
+{
+  "intelligenceRetrieveActionResponse" : "intelligenceRetrieveActionResponse",
+  "intelligenceRetrieveActionTaskReference" : "IRATR720527",
+  "cRCustomerContactSessionProcedureInstanceRecord" : {
+    "sessionMechanism" : "sessionMechanism",
+    "sessionStartEndTime" : "09-22-2018",
+    "servicingPositionReference" : "724475",
+    "employeeReference" : "796514",
+    "customerReference" : "766664",
+    "contactDialogueRecord" : {
+      "contactDialogueScript" : "contactDialogueScript",
+      "contactDialogueType" : "contactDialogueType",
+      "contactDialogueLog" : "contactDialogueLog",
+      "contactDialogueLogReference" : "727972",
+      "contactDialogueResult" : "contactDialogueResult"
+    },
+    "customerContactOperatingSessionInstanceRecord" : {}
+  },
+  "intelligenceRetrieveActionTaskRecord" : {},
+  "intelligenceInstanceAnalysis" : {
+    "intelligenceInstanceAnalysisRecord" : {},
+    "intelligenceInstanceAnalysisReportType" : "intelligenceInstanceAnalysisReportType",
+    "intelligenceInstanceAnalysisReport" : {},
+    "intelligenceInstanceAnalysisParameters" : "intelligenceInstanceAnalysisParameters"
+  },
+  "intelligenceInstanceReport" : {
+    "intelligenceInstanceReportRecord" : {},
+    "intelligenceInstanceReportParameters" : "intelligenceInstanceReportParameters",
+    "intelligenceInstanceReport" : {},
+    "intelligenceInstanceReportType" : "intelligenceInstanceReportType"
+  }
+}

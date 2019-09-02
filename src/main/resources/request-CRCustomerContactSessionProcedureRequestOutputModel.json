@@ -1,0 +1,15 @@
+{
+  "requestRecordReference" : "RRR721810",
+  "cRCustomerContactSessionProcedureInstanceRecord" : {
+    "sessionStartEndTime" : "09-22-2018",
+    "contactDialogueRecord" : {
+      "contactDialogueScript" : "contactDialogueScript",
+      "contactDialogueType" : "contactDialogueType",
+      "contactDialogueLog" : "contactDialogueLog",
+      "contactDialogueResult" : "contactDialogueResult"
+    }
+  },
+  "customerContactSessionProcedureRequestActionTaskReference" : "CCSPRATR746116",
+  "customerContactSessionProcedureRequestActionTaskRecord" : {},
+  "requestResponseRecord" : {}
+}

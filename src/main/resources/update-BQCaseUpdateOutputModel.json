@@ -1,0 +1,16 @@
+{
+  "caseUpdateActionTaskRecord" : {},
+  "cRCustomerContactSessionProcedureInstanceRecord" : {
+    "contactDialogueRecord" : {
+      "contactDialogueLog" : "contactDialogueLog",
+      "contactDialogueResult" : "contactDialogueResult"
+    }
+  },
+  "caseUpdateActionTaskReference" : "CUATR764307",
+  "updateResponseRecord" : {},
+  "caseInstanceRecord" : {
+    "productInstanceReference" : "749306",
+    "customerCaseType" : "customerCaseType",
+    "caseTaskResult" : "caseTaskResult"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "cRCustomerContactSessionProcedureInstanceRecord" : {
+    "sessionMechanism" : "sessionMechanism",
+    "sessionStartEndTime" : "09-22-2018",
+    "servicingPositionReference" : "728487",
+    "employeeReference" : "756790",
+    "customerReference" : "788469",
+    "contactDialogueRecord" : {
+      "contactDialogueScript" : "contactDialogueScript",
+      "contactDialogueType" : "contactDialogueType",
+      "contactDialogueLog" : "contactDialogueLog",
+      "contactDialogueLogReference" : "778082",
+      "contactDialogueResult" : "contactDialogueResult"
+    },
+    "customerContactOperatingSessionInstanceRecord" : {}
+  },
+  "offerInstanceAnalysis" : {
+    "offerInstanceAnalysisReport" : {},
+    "offerInstanceAnalysisReportType" : "offerInstanceAnalysisReportType",
+    "offerInstanceAnalysisParameters" : "offerInstanceAnalysisParameters",
+    "offerInstanceAnalysisRecord" : {}
+  },
+  "offerInstanceReport" : {
+    "offerInstanceReportRecord" : {},
+    "offerInstanceReportParameters" : "offerInstanceReportParameters",
+    "offerInstanceReport" : {},
+    "offerInstanceReportType" : "offerInstanceReportType"
+  },
+  "offerInstanceRecord" : {
+    "offerTaskResult" : "offerTaskResult",
+    "productServiceType" : "productServiceType"
+  },
+  "offerRetrieveActionTaskRecord" : {},
+  "offerRetrieveActionTaskReference" : "ORATR704489",
+  "offerRetrieveActionResponse" : "offerRetrieveActionResponse"
+}

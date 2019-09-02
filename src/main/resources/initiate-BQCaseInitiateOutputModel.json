@@ -1,0 +1,18 @@
+{
+  "caseInitiateActionRecord" : {},
+  "cRCustomerContactSessionProcedureInstanceRecord" : {
+    "sessionStartEndTime" : "09-22-2018",
+    "contactDialogueRecord" : {
+      "contactDialogueScript" : "contactDialogueScript",
+      "contactDialogueType" : "contactDialogueType",
+      "contactDialogueLog" : "contactDialogueLog",
+      "contactDialogueResult" : "contactDialogueResult"
+    }
+  },
+  "caseInitiateActionReference" : "CIAR714886",
+  "caseInstanceReference" : "CIR728354",
+  "caseInstanceStatus" : "caseInstanceStatus",
+  "caseInstanceRecord" : {
+    "caseTaskResult" : "caseTaskResult"
+  }
+}

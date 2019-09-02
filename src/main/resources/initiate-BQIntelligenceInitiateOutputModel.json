@@ -1,0 +1,15 @@
+{
+  "cRCustomerContactSessionProcedureInstanceRecord" : {
+    "sessionStartEndTime" : "09-22-2018",
+    "contactDialogueRecord" : {
+      "contactDialogueScript" : "contactDialogueScript",
+      "contactDialogueType" : "contactDialogueType",
+      "contactDialogueLog" : "contactDialogueLog",
+      "contactDialogueResult" : "contactDialogueResult"
+    }
+  },
+  "intelligenceInstanceReference" : "IIR796750",
+  "intelligenceInstanceStatus" : "intelligenceInstanceStatus",
+  "intelligenceInitiateActionRecord" : {},
+  "intelligenceInitiateActionReference" : "IIAR782074"
+}

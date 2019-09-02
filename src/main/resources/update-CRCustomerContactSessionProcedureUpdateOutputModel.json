@@ -1,0 +1,20 @@
+{
+  "cRCustomerContactSessionProcedureInstanceRecord" : {
+    "sessionMechanism" : "sessionMechanism",
+    "sessionStartEndTime" : "09-22-2018",
+    "servicingPositionReference" : "746180",
+    "employeeReference" : "780306",
+    "customerReference" : "758127",
+    "contactDialogueRecord" : {
+      "contactDialogueScript" : "contactDialogueScript",
+      "contactDialogueType" : "contactDialogueType",
+      "contactDialogueLog" : "contactDialogueLog",
+      "contactDialogueLogReference" : "797317",
+      "contactDialogueResult" : "contactDialogueResult"
+    },
+    "customerContactOperatingSessionInstanceRecord" : {}
+  },
+  "customerContactSessionProcedureUpdateActionTaskReference" : "CCSPUATR765891",
+  "updateResponseRecord" : {},
+  "customerContactSessionProcedureUpdateActionTaskRecord" : {}
+}

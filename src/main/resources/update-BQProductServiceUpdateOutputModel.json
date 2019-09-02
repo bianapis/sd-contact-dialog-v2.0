@@ -1,0 +1,15 @@
+{
+  "cRCustomerContactSessionProcedureInstanceRecord" : {
+    "contactDialogueRecord" : {
+      "contactDialogueLog" : "contactDialogueLog",
+      "contactDialogueResult" : "contactDialogueResult"
+    }
+  },
+  "updateResponseRecord" : {},
+  "productServiceUpdateActionTaskRecord" : {},
+  "productServiceInstanceRecord" : {
+    "productInstanceReference" : "708560",
+    "productServiceTaskResult" : "productServiceTaskResult"
+  },
+  "productServiceUpdateActionTaskReference" : "CCSPUATR782417"
+}

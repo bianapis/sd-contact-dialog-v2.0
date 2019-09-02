@@ -1,0 +1,18 @@
+{
+  "salesInstanceRecord" : {
+    "salesTaskResult" : "salesTaskResult"
+  },
+  "cRCustomerContactSessionProcedureInstanceRecord" : {
+    "sessionStartEndTime" : "09-22-2018",
+    "contactDialogueRecord" : {
+      "contactDialogueScript" : "contactDialogueScript",
+      "contactDialogueType" : "contactDialogueType",
+      "contactDialogueLog" : "contactDialogueLog",
+      "contactDialogueResult" : "contactDialogueResult"
+    }
+  },
+  "salesInstanceReference" : "SIR746695",
+  "salesInitiateActionReference" : "SIAR719957",
+  "salesInstanceStatus" : "salesInstanceStatus",
+  "salesInitiateActionRecord" : {}
+}

@@ -1,0 +1,18 @@
+{
+  "cRCustomerContactSessionProcedureInstanceRecord" : {
+    "sessionStartEndTime" : "09-22-2018",
+    "contactDialogueRecord" : {
+      "contactDialogueScript" : "contactDialogueScript",
+      "contactDialogueType" : "contactDialogueType",
+      "contactDialogueLog" : "contactDialogueLog",
+      "contactDialogueResult" : "contactDialogueResult"
+    }
+  },
+  "productServiceInstanceStatus" : "productServiceInstanceStatus",
+  "productServiceInitiateActionRecord" : {},
+  "productServiceInstanceReference" : "CCSPIR797498",
+  "productServiceInitiateActionReference" : "CCSPIAR710058",
+  "productServiceInstanceRecord" : {
+    "productServiceTaskResult" : "productServiceTaskResult"
+  }
+}

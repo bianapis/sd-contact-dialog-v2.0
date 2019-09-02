@@ -1,0 +1,30 @@
+{
+  "customerContactSessionProcedureRetrieveActionTaskReference" : "CCSPRATR747990",
+  "cRCustomerContactSessionProcedureInstanceRecord" : {
+    "sessionMechanism" : "sessionMechanism",
+    "sessionStartEndTime" : "09-22-2018",
+    "servicingPositionReference" : "781742",
+    "employeeReference" : "776399",
+    "customerReference" : "734068",
+    "contactDialogueRecord" : {
+      "contactDialogueScript" : "contactDialogueScript",
+      "contactDialogueType" : "contactDialogueType",
+      "contactDialogueLog" : "contactDialogueLog",
+      "contactDialogueLogReference" : "760681",
+      "contactDialogueResult" : "contactDialogueResult"
+    },
+    "customerContactOperatingSessionInstanceRecord" : {}
+  },
+  "customerContactSessionProcedureRetrieveActionTaskRecord" : {},
+  "customerContactSessionProcedureRetrieveActionResponse" : "customerContactSessionProcedureRetrieveActionResponse",
+  "customerContactSessionProcedureInstanceReportRecord" : {
+    "customerContactSessionProcedureInstanceReport" : {},
+    "customerContactSessionProcedureInstanceReportType" : "customerContactSessionProcedureInstanceReportType",
+    "customerContactSessionProcedureInstanceReportData" : "customerContactSessionProcedureInstanceReportData"
+  },
+  "customerContactSessionProcedureInstanceAnalysis" : {
+    "customerContactSessionProcedureInstanceAnalysisData" : "customerContactSessionProcedureInstanceAnalysisData",
+    "customerContactSessionProcedureInstanceAnalysisReportType" : "customerContactSessionProcedureInstanceAnalysisReportType",
+    "customerContactSessionProcedureInstanceAnalysisReport" : {}
+  }
+}

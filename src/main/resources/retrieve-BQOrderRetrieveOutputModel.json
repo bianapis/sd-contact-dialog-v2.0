@@ -1,0 +1,39 @@
+{
+  "orderRetrieveActionTaskRecord" : {},
+  "orderRetrieveActionTaskReference" : "ORATR745280",
+  "orderRetrieveActionResponse" : "orderRetrieveActionResponse",
+  "cRCustomerContactSessionProcedureInstanceRecord" : {
+    "sessionMechanism" : "sessionMechanism",
+    "sessionStartEndTime" : "09-22-2018",
+    "servicingPositionReference" : "738691",
+    "employeeReference" : "763119",
+    "customerReference" : "792863",
+    "contactDialogueRecord" : {
+      "contactDialogueScript" : "contactDialogueScript",
+      "contactDialogueType" : "contactDialogueType",
+      "contactDialogueLog" : "contactDialogueLog",
+      "contactDialogueLogReference" : "749906",
+      "contactDialogueResult" : "contactDialogueResult"
+    },
+    "customerContactOperatingSessionInstanceRecord" : {}
+  },
+  "orderInstanceReport" : {
+    "orderInstanceReportType" : "orderInstanceReportType",
+    "orderInstanceReport" : {},
+    "orderInstanceReportParameters" : "orderInstanceReportParameters",
+    "orderInstanceReportRecord" : {}
+  },
+  "orderInstanceAnalysis" : {
+    "orderInstanceAnalysisReportType" : "orderInstanceAnalysisReportType",
+    "orderInstanceAnalysisReport" : {},
+    "orderInstanceAnalysisParameters" : "orderInstanceAnalysisParameters",
+    "orderInstanceAnalysisRecord" : {}
+  },
+  "orderInstanceRecord" : {
+    "orderType" : "orderType",
+    "orderTaskRecord" : {
+      "orderTaskWorkProducts" : "orderTaskWorkProducts",
+      "orderTaskResult" : "orderTaskResult"
+    }
+  }
+}

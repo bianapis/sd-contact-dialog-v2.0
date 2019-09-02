@@ -1,0 +1,18 @@
+{
+  "offerInstanceStatus" : "offerInstanceStatus",
+  "offerInstanceReference" : "OIR784094",
+  "cRCustomerContactSessionProcedureInstanceRecord" : {
+    "sessionStartEndTime" : "09-22-2018",
+    "contactDialogueRecord" : {
+      "contactDialogueScript" : "contactDialogueScript",
+      "contactDialogueType" : "contactDialogueType",
+      "contactDialogueLog" : "contactDialogueLog",
+      "contactDialogueResult" : "contactDialogueResult"
+    }
+  },
+  "offerInstanceRecord" : {
+    "offerTaskResult" : "offerTaskResult"
+  },
+  "offerInitiateActionRecord" : {},
+  "offerInitiateActionReference" : "OIAR792047"
+}

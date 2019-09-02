@@ -1,0 +1,16 @@
+{
+  "salesUpdateActionTaskRecord" : {},
+  "salesInstanceRecord" : {
+    "salesTaskResult" : "salesTaskResult",
+    "productServiceProperties" : "productServiceProperties",
+    "productServiceType" : "productServiceType"
+  },
+  "cRCustomerContactSessionProcedureInstanceRecord" : {
+    "contactDialogueRecord" : {
+      "contactDialogueLog" : "contactDialogueLog",
+      "contactDialogueResult" : "contactDialogueResult"
+    }
+  },
+  "updateResponseRecord" : {},
+  "salesUpdateActionTaskReference" : "SUATR710349"
+}

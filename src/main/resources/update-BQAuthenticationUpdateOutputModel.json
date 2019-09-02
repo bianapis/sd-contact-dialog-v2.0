@@ -1,0 +1,15 @@
+{
+  "cRCustomerContactSessionProcedureInstanceRecord" : {
+    "contactDialogueRecord" : {
+      "contactDialogueLog" : "contactDialogueLog",
+      "contactDialogueResult" : "contactDialogueResult"
+    }
+  },
+  "authenticationInstanceRecord" : {
+    "authenticationTaskResult" : "authenticationTaskResult",
+    "requiredAuthenticationLevel" : "requiredAuthenticationLevel"
+  },
+  "authenticationUpdateActionTaskReference" : "AUATR720307",
+  "authenticationUpdateActionTaskRecord" : {},
+  "updateResponseRecord" : {}
+}

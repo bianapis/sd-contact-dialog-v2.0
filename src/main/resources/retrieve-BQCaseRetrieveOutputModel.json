@@ -1,0 +1,37 @@
+{
+  "caseRetrieveActionResponse" : "caseRetrieveActionResponse",
+  "cRCustomerContactSessionProcedureInstanceRecord" : {
+    "sessionMechanism" : "sessionMechanism",
+    "sessionStartEndTime" : "09-22-2018",
+    "servicingPositionReference" : "705983",
+    "employeeReference" : "784373",
+    "customerReference" : "760095",
+    "contactDialogueRecord" : {
+      "contactDialogueScript" : "contactDialogueScript",
+      "contactDialogueType" : "contactDialogueType",
+      "contactDialogueLog" : "contactDialogueLog",
+      "contactDialogueLogReference" : "729671",
+      "contactDialogueResult" : "contactDialogueResult"
+    },
+    "customerContactOperatingSessionInstanceRecord" : {}
+  },
+  "caseRetrieveActionTaskReference" : "CRATR774655",
+  "caseInstanceReport" : {
+    "caseInstanceReportType" : "caseInstanceReportType",
+    "caseInstanceReport" : {},
+    "caseInstanceReportParameters" : "caseInstanceReportParameters",
+    "caseInstanceReportRecord" : {}
+  },
+  "caseRetrieveActionTaskRecord" : {},
+  "caseInstanceAnalysis" : {
+    "caseInstanceAnalysisReportType" : "caseInstanceAnalysisReportType",
+    "caseInstanceAnalysisParameters" : "caseInstanceAnalysisParameters",
+    "caseInstanceAnalysisReport" : {},
+    "caseInstanceAnalysisRecord" : {}
+  },
+  "caseInstanceRecord" : {
+    "productInstanceReference" : "798972",
+    "customerCaseType" : "customerCaseType",
+    "caseTaskResult" : "caseTaskResult"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "queryInitiateActionReference" : "QIAR763646",
+  "queryInstanceReference" : "QIR726301",
+  "cRCustomerContactSessionProcedureInstanceRecord" : {
+    "sessionStartEndTime" : "09-22-2018",
+    "contactDialogueRecord" : {
+      "contactDialogueScript" : "contactDialogueScript",
+      "contactDialogueType" : "contactDialogueType",
+      "contactDialogueLog" : "contactDialogueLog",
+      "contactDialogueResult" : "contactDialogueResult"
+    }
+  },
+  "queryInstanceRecord" : {
+    "queryTaskResult" : "queryTaskResult"
+  },
+  "queryInitiateActionRecord" : {},
+  "queryInstanceStatus" : "queryInstanceStatus"
+}

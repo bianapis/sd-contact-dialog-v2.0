@@ -1,0 +1,15 @@
+{
+  "cRCustomerContactSessionProcedureInstanceRecord" : {
+    "contactDialogueRecord" : {
+      "contactDialogueLog" : "contactDialogueLog",
+      "contactDialogueResult" : "contactDialogueResult"
+    }
+  },
+  "offerUpdateActionTaskReference" : "OUATR798470",
+  "offerInstanceRecord" : {
+    "offerTaskResult" : "offerTaskResult",
+    "productServiceType" : "productServiceType"
+  },
+  "updateResponseRecord" : {},
+  "offerUpdateActionTaskRecord" : {}
+}

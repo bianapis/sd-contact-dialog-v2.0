@@ -1,0 +1,35 @@
+{
+  "cRCustomerContactSessionProcedureInstanceRecord" : {
+    "sessionMechanism" : "sessionMechanism",
+    "sessionStartEndTime" : "09-22-2018",
+    "servicingPositionReference" : "760730",
+    "employeeReference" : "755013",
+    "customerReference" : "702655",
+    "contactDialogueRecord" : {
+      "contactDialogueScript" : "contactDialogueScript",
+      "contactDialogueType" : "contactDialogueType",
+      "contactDialogueLog" : "contactDialogueLog",
+      "contactDialogueLogReference" : "793145",
+      "contactDialogueResult" : "contactDialogueResult"
+    },
+    "customerContactOperatingSessionInstanceRecord" : {}
+  },
+  "historyInstanceReport" : {
+    "historyInstanceReportParameters" : "historyInstanceReportParameters",
+    "historyInstanceReport" : {},
+    "historyInstanceReportRecord" : {},
+    "historyInstanceReportType" : "historyInstanceReportType"
+  },
+  "historyInstanceAnalysis" : {
+    "historyInstanceAnalysisReportType" : "historyInstanceAnalysisReportType",
+    "historyInstanceAnalysisReport" : {},
+    "historyInstanceAnalysisRecord" : {},
+    "historyInstanceAnalysisParameters" : "historyInstanceAnalysisParameters"
+  },
+  "historyRetrieveActionTaskRecord" : {},
+  "historyRetrieveActionResponse" : "historyRetrieveActionResponse",
+  "historyRetrieveActionTaskReference" : "HRATR766966",
+  "historyInstanceRecord" : {
+    "historyTaskResult" : "historyTaskResult"
+  }
+}

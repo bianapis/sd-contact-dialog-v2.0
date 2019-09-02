@@ -1,0 +1,36 @@
+{
+  "queryInstanceReport" : {
+    "queryInstanceReport" : {},
+    "queryInstanceReportRecord" : {},
+    "queryInstanceReportType" : "queryInstanceReportType",
+    "queryInstanceReportParameters" : "queryInstanceReportParameters"
+  },
+  "queryInstanceAnalysis" : {
+    "queryInstanceAnalysisReportType" : "queryInstanceAnalysisReportType",
+    "queryInstanceAnalysisParameters" : "queryInstanceAnalysisParameters",
+    "queryInstanceAnalysisRecord" : {},
+    "queryInstanceAnalysisReport" : {}
+  },
+  "cRCustomerContactSessionProcedureInstanceRecord" : {
+    "sessionMechanism" : "sessionMechanism",
+    "sessionStartEndTime" : "09-22-2018",
+    "servicingPositionReference" : "770912",
+    "employeeReference" : "780938",
+    "customerReference" : "727128",
+    "contactDialogueRecord" : {
+      "contactDialogueScript" : "contactDialogueScript",
+      "contactDialogueType" : "contactDialogueType",
+      "contactDialogueLog" : "contactDialogueLog",
+      "contactDialogueLogReference" : "708254",
+      "contactDialogueResult" : "contactDialogueResult"
+    },
+    "customerContactOperatingSessionInstanceRecord" : {}
+  },
+  "queryInstanceRecord" : {
+    "queryTaskResult" : "queryTaskResult",
+    "queryType" : "queryType"
+  },
+  "queryRetrieveActionTaskRecord" : {},
+  "queryRetrieveActionResponse" : "queryRetrieveActionResponse",
+  "queryRetrieveActionTaskReference" : "QRATR710440"
+}
