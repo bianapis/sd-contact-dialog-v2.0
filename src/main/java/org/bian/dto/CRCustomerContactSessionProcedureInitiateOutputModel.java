@@ -87,7 +87,7 @@ public class CRCustomerContactSessionProcedureInitiateOutputModel   {
   public CRCustomerContactSessionProcedureInitiateOutputModelCRCustomerContactSessionProcedureInstanceRecord getCRCustomerContactSessionProcedureInstanceRecord() {
     return cRCustomerContactSessionProcedureInstanceRecord;
   }
-
+  @JsonProperty("cRCustomerContactSessionProcedureInstanceRecord")
   public void setCRCustomerContactSessionProcedureInstanceRecord(CRCustomerContactSessionProcedureInitiateOutputModelCRCustomerContactSessionProcedureInstanceRecord cRCustomerContactSessionProcedureInstanceRecord) {
     this.cRCustomerContactSessionProcedureInstanceRecord = cRCustomerContactSessionProcedureInstanceRecord;
   }

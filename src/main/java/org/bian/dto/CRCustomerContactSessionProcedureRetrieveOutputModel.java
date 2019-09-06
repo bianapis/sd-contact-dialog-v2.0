@@ -35,7 +35,8 @@ public class CRCustomerContactSessionProcedureRetrieveOutputModel   {
   public CRCustomerContactSessionProcedureRetrieveOutputModelCRCustomerContactSessionProcedureInstanceRecord getCRCustomerContactSessionProcedureInstanceRecord() {
     return cRCustomerContactSessionProcedureInstanceRecord;
   }
-
+  
+  @JsonProperty("cRCustomerContactSessionProcedureInstanceRecord")
   public void setCRCustomerContactSessionProcedureInstanceRecord(CRCustomerContactSessionProcedureRetrieveOutputModelCRCustomerContactSessionProcedureInstanceRecord cRCustomerContactSessionProcedureInstanceRecord) {
     this.cRCustomerContactSessionProcedureInstanceRecord = cRCustomerContactSessionProcedureInstanceRecord;
   }

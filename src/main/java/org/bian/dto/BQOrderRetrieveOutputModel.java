@@ -38,7 +38,7 @@ public class BQOrderRetrieveOutputModel   {
   public BQOrderRetrieveOutputModelCRCustomerContactSessionProcedureInstanceRecord getCRCustomerContactSessionProcedureInstanceRecord() {
     return cRCustomerContactSessionProcedureInstanceRecord;
   }
-
+  @JsonProperty("cRCustomerContactSessionProcedureInstanceRecord")
   public void setCRCustomerContactSessionProcedureInstanceRecord(BQOrderRetrieveOutputModelCRCustomerContactSessionProcedureInstanceRecord cRCustomerContactSessionProcedureInstanceRecord) {
     this.cRCustomerContactSessionProcedureInstanceRecord = cRCustomerContactSessionProcedureInstanceRecord;
   }
